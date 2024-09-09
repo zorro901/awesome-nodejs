@@ -175,57 +175,39 @@
 
 ### Mad science
 
-- [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
 - [ipfs](https://github.com/ipfs/helia) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
-- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
-- [Bitcore](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 - [PDFKit](https://github.com/foliojs/pdfkit) - PDF generation library.
 - [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 - [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+- [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - [xlsx](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
 
 ### Command-line apps
 
-- [np](https://github.com/sindresorhus/np) - Better `npm publish`.
-- [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
-- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-- [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 - [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
-- [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 - [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
-- [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
-- [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal. (Link is broken or repository not accessible)
 - [themer](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
-- [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
 
 ### Functional programming
 
 - [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 - [immutable](https://github.com/immutable-js/immutable-js) - Immutable data collections.
-- [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
-- [RxJS](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
 
 ### HTTP
 
 - [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
 - [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
 - [axios](https://github.com/axios/axios) - Promise based HTTP client (works in the browser too).
-- [superagent](https://github.com/visionmedia/superagent) - HTTP request library.
-- [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
-- [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support. (Link is broken or repository not accessible)
 - [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
 - [purest](https://github.com/simov/purest) - REST client.
 
@@ -276,7 +258,6 @@
 - [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 - [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config.
-- [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
 - [Vite](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
 
 ### Hardware
@@ -339,7 +320,6 @@
 	- [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
 	- [More…](https://github.com/sindresorhus/promise-fun)
 - Observables
-	- [RxJS](https://github.com/ReactiveX/RxJS) - Reactive programming.
 	- [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
 - Streams
 
@@ -480,7 +460,6 @@
 - [nyc](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 - [tap](https://github.com/tapjs/node-tap) - TAP test framework.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness.
-- [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 - [Nock](https://github.com/nock/nock) - HTTP mocking and expectations.
@@ -664,8 +643,6 @@
 ### Discovery
 
 - [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
-- [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
-- [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
 
 ### Articles
 
@@ -717,7 +694,6 @@
 ### Blogs
 
 - [Node.js blog](https://nodejs.org/en/blog/)
-- [webapplog.com](https://webapplog.com/tag/node-js/) - Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.
 
 ### Courses
 
