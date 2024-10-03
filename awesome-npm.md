@@ -44,7 +44,6 @@
 - [npm-stat](http://npm-stat.com) - Statistics charts for packages.
 - [npmgraph](http://npm.anvaka.com) - Visualization of dependencies.
 - [npm trends](http://www.npmtrends.com) - Compare package download counts over time.
-- [npm-compare](https://npmcompare.com) - パッケージの検索と比較が簡単。
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - ダウンロード数別のnpmユーザー。
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [ghub.io](https://ghub.io) - npm パッケージの GitHub リポジトリにリダイレクトします。
